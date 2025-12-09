@@ -8,7 +8,6 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '44', url: 'https://hub.playai.network/?ref=dashboard', title: 'PlayAI Hub', category: LinkCategory.PASSIVE_NODES, tags: ['AI', 'Node'] },
   { id: '47', url: 'https://node.optimai.network/register?ref=0EB0B06E', title: 'OptimAI Node', category: LinkCategory.PASSIVE_NODES, tags: ['Node', 'AI'] },
   { id: '48', url: 'https://miningblocks.club/?Referral=35696', title: 'MiningBlocks Club', category: LinkCategory.PASSIVE_NODES, tags: ['Mining Sim'] },
-  { id: '104', url: 'https://robox.digital/i/2160702', title: 'Robox Digital', category: LinkCategory.PASSIVE_NODES, tags: ['Passive'] },
   { id: '41', url: 'https://surfe.be/ext/178882', title: 'Surfe.be', category: LinkCategory.PASSIVE_NODES, tags: ['Extension', 'Ads'] },
 
   // --- OG FAUCETS (Reliable Drip) ---
@@ -45,15 +44,12 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '35', url: 'https://btcadspace.com/ref/source', title: 'BTC AdSpace', category: LinkCategory.MICRO_WORK, tags: ['Ads'] },
   { id: '42', url: 'https://timebucks.com/?refID=219093340', title: 'TimeBucks', category: LinkCategory.MICRO_WORK, tags: ['Survey', 'Fiat'] },
   { id: '37', url: 'https://everve.net/ref/678797/', title: 'Everve', category: LinkCategory.MICRO_WORK, tags: ['Social'] },
-  { id: '33', url: 'https://adbch.top/r/312844', title: 'AdBCH', category: LinkCategory.MICRO_WORK, tags: ['Ads'] },
   { id: '38', url: 'https://freeward.net/ref/7pex8', title: 'Freeward', category: LinkCategory.MICRO_WORK, tags: ['Offers'] },
   { id: '40', url: 'https://rewardvid.com?ref=ETqLenDf', title: 'RewardVid', category: LinkCategory.MICRO_WORK, tags: ['Video'] },
   { id: '43', url: 'https://earnviv.com/?r=36182', title: 'EarnViv', category: LinkCategory.MICRO_WORK, tags: ['Offers'] },
   { id: '65', url: 'https://www.publish0x.com/?a=OpnelZ1bKB', title: 'Publish0x', category: LinkCategory.MICRO_WORK, tags: ['Reading', 'Crypto'] },
   
   // --- AIRDROP OPS (Testnet/Faucets) ---
-  { id: '66', url: 'https://faucet.iopn.tech/', title: 'IOPN Faucet', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet Faucet'], recommended: true },
-  { id: '9', url: 'https://faucet.circle.com/', title: 'Circle USDC Faucet', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet Faucet'] },
   { id: '17', url: 'https://parthenon.movementlabs.xyz/dashboard', title: 'Movement Labs', category: LinkCategory.AIRDROP_OPS, tags: ['L2', 'Testnet'], recommended: true },
   { id: '7', url: 'https://testnet.huddle01.com/leaderboard', title: 'Huddle01', category: LinkCategory.AIRDROP_OPS, tags: ['DePIN', 'Testnet'] },
   { id: '1', url: 'https://maxsee.io?k=E7967767', title: 'MaxSee', category: LinkCategory.AIRDROP_OPS, tags: ['Watch2Earn', 'New'] },
@@ -62,7 +58,6 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '4', url: 'https://app.piggycell.io/?ref=5EOPZ8', title: 'PiggyCell', category: LinkCategory.AIRDROP_OPS, tags: ['App'] },
   { id: '5', url: 'https://testnet.lifeai.io/ref?code=WFNY7Z3', title: 'LifeAI Testnet', category: LinkCategory.AIRDROP_OPS, tags: ['AI'] },
   { id: '6', url: 'https://nebulai.network/final-test?invite_by=D1F1kn', title: 'Nebulai Network', category: LinkCategory.AIRDROP_OPS, tags: ['Final Test'] },
-  { id: '8', url: 'https://sandchain-hub.caldera.xyz/', title: 'Sandchain Hub', category: LinkCategory.AIRDROP_OPS, tags: ['Caldera'] },
   { id: '10', url: 'https://operator.olivianetwork.com?ref=#OPJ3FIK2', title: 'Olivia Network', category: LinkCategory.AIRDROP_OPS, tags: ['Operator'] },
   { id: '11', url: 'https://devnet-dapp.rayls.com/', title: 'Rayls Devnet', category: LinkCategory.AIRDROP_OPS, tags: ['Devnet'] },
   { id: '12', url: 'https://cedomis.xyz/dashboard', title: 'Cedomis', category: LinkCategory.AIRDROP_OPS, tags: ['Dashboard'] },
@@ -72,7 +67,6 @@ export const ALL_LINKS: LinkItem[] = [
 
   // --- WEB3 GAMING ---
   { id: '22', url: 'https://play.immutable.com/referral/share/8gkaZR?utm_source=referral', title: 'Immutable X', category: LinkCategory.WEB3_GAMING, tags: ['Ecosystem', 'Top Tier'], recommended: true },
-  { id: '19', url: 'https://play.carv.io/carvpass', title: 'Carv Protocol', category: LinkCategory.WEB3_GAMING, tags: ['Data', 'Gaming ID'], recommended: true },
   { id: '27', url: 'https://rollercoin.com/?r=kcq1472k', title: 'RollerCoin', category: LinkCategory.WEB3_GAMING, tags: ['Sim', 'Classic'] },
   { id: '26', url: 'https://t.me/gamee/start?startapp=eyJyZWYiOjMzMzYwMDY0MH0', title: 'Gamee (TG)', category: LinkCategory.WEB3_GAMING, tags: ['Telegram', 'Mobile'] },
   { id: '18', url: 'https://s.trex.xyz/lltWFq', title: 'Trex.xyz', category: LinkCategory.WEB3_GAMING, tags: ['Game'] },
@@ -80,14 +74,11 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '21', url: 'https://nomstead.com/?ref=dhqgys6b', title: 'Nomstead', category: LinkCategory.WEB3_GAMING, tags: ['Game'] },
   { id: '23', url: 'https://prometheansaga.com?r=u9Jva2XK', title: 'Promethean Saga', category: LinkCategory.WEB3_GAMING, tags: ['RPG'] },
   { id: '24', url: 'https://app.luckyx.world/?p=Yie918', title: 'LuckyX World', category: LinkCategory.WEB3_GAMING, tags: ['Arcade'] },
-  { id: '25', url: 'https://bch.games/play/dashboard', title: 'BCH Games', category: LinkCategory.WEB3_GAMING, tags: ['Casino'] },
   { id: '28', url: 'https://simplebits.io/ref/0rd4li1cSLTL', title: 'SimpleBits', category: LinkCategory.WEB3_GAMING, tags: ['Sim'] },
   { id: '29', url: 'https://limercoin.com/?ref=4i6ljids', title: 'LimerCoin', category: LinkCategory.WEB3_GAMING, tags: ['Sim'] },
   { id: '30', url: 'https://luckywatch.pro/u/0oqit', title: 'LuckyWatch', category: LinkCategory.WEB3_GAMING, tags: ['Game'] },
-  { id: '31', url: 'https://camphaven.xyz/profile', title: 'CampHaven', category: LinkCategory.WEB3_GAMING, tags: ['Social'] },
 
   // --- QUEST BOARD ---
-  { id: '54', url: 'https://app.galxe.com/hub/gigapot', title: 'Galxe', category: LinkCategory.QUEST_BOARD, tags: ['Major Platform', 'Quests'], recommended: true },
   { id: '57', url: 'https://dscvr.one/invite/dashboard?ur=e99a9b5f-4449-4382-943b-71579aadfa85', title: 'DSCVR', category: LinkCategory.QUEST_BOARD, tags: ['SocialFi', 'Solana'], recommended: true },
   { id: '63', url: 'https://skynet.certik.com/quest/signup?referralId=4324d09a-bf19-437c-8635-645a52dbf136', title: 'Certik Skynet', category: LinkCategory.QUEST_BOARD, tags: ['Security', 'Quests'] },
   { id: '50', url: 'https://app.optimai.im/generate-tweet', title: 'OptimAI Social', category: LinkCategory.QUEST_BOARD, tags: ['Social'] },
@@ -101,7 +92,6 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '60', url: 'https://app.gata.xyz?invite_code=8epdx7rg', title: 'Gata.xyz', category: LinkCategory.QUEST_BOARD, tags: ['Community'] },
   { id: '61', url: 'https://dashboard.aro.network/signup?referral=GJIXM0', title: 'Aro Network', category: LinkCategory.QUEST_BOARD, tags: ['DePIN'] },
   { id: '62', url: 'https://blockstreet.money/dashboard?invite_code=mvEz8G', title: 'BlockStreet', category: LinkCategory.QUEST_BOARD, tags: ['Finance'] },
-  { id: '64', url: 'https://rubi.social/join/DASHBOARD', title: 'Rubi', category: LinkCategory.QUEST_BOARD, tags: ['Social'] },
 
   // --- INFRASTRUCTURE ---
   { id: '91', url: 'https://accounts.binance.com/register?ref=49685937', title: 'Binance', category: LinkCategory.INFRASTRUCTURE, tags: ['Exchange', 'Tier 1'], recommended: true },
@@ -109,18 +99,9 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '98', url: 'https://eth.blockscout.com/?ref=6RZXK3', title: 'Blockscout', category: LinkCategory.INFRASTRUCTURE, tags: ['Explorer', 'Tools'] },
   { id: '96', url: 'https://www.rainbow.me/points?ref=66K7GM', title: 'Rainbow Wallet', category: LinkCategory.INFRASTRUCTURE, tags: ['Wallet', 'Points'] },
   { id: '97', url: 'https://newshare.bwb.global/en/referralLanding?inviteCode=ZnYvar&type=card', title: 'Bitget Wallet', category: LinkCategory.INFRASTRUCTURE, tags: ['Wallet', 'BWB'] },
-  { id: '93', url: 'https://payeer.com/?session=11397475', title: 'Payeer', category: LinkCategory.INFRASTRUCTURE, tags: ['Fiat Ramp'] },
-  { id: '94', url: 'https://ncwallet.net/invite/WDRRP0BM', title: 'NC Wallet', category: LinkCategory.INFRASTRUCTURE, tags: ['No Fee'] },
   { id: '95', url: 'https://sosovalue.com/join/0DCN0PVQ', title: 'SoSoValue', category: LinkCategory.INFRASTRUCTURE, tags: ['Analytics'] },
   { id: '99', url: 'https://dashboard.3dos.io/register?ref_code=6d8572', title: '3Dos', category: LinkCategory.INFRASTRUCTURE, tags: ['Tool'] },
-  { id: '100', url: 'https://start.me/p/aL44E0/online-income', title: 'Start.me Income', category: LinkCategory.INFRASTRUCTURE, tags: ['Resource'] },
-  { id: '101', url: 'https://start.me/p/lLBAx7/free-crypto', title: 'Start.me Crypto', category: LinkCategory.INFRASTRUCTURE, tags: ['Resource'] },
-  { id: '102', url: 'https://cryptokinase.dropmark.com/1141913', title: 'CryptoKinase', category: LinkCategory.INFRASTRUCTURE, tags: ['Resource'] },
-  { id: '103', url: 'https://beacons.ai/dashboard', title: 'Beacons.ai', category: LinkCategory.INFRASTRUCTURE, tags: ['Tool'] },
-  { id: '105', url: 'https://bitpixl.com/W1W3V6EU', title: 'BitPixl', category: LinkCategory.INFRASTRUCTURE, tags: ['Tool'] },
-
-  // --- HIGH RISK / MISC ---
-  { id: '106', url: 'https://signup.billions.network/?rc=IMENAAXD', title: 'Billions Network', category: LinkCategory.RISK_LABS, tags: ['High Yield'] },
+  { id: '106', url: 'https://signup.billions.network/?rc=IMENAAXD', title: 'Billions Network', category: LinkCategory.INFRASTRUCTURE, tags: ['High Yield'] },
   { id: '107', url: 'https://t.me/EtherDROPS_bot?start=promo_OYJAP5', title: 'EtherDrops Bot', category: LinkCategory.INFRASTRUCTURE, tags: ['Bot', 'Tracking'] },
 ];
 
