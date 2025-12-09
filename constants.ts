@@ -59,8 +59,6 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '5', url: 'https://testnet.lifeai.io/ref?code=WFNY7Z3', title: 'LifeAI Testnet', category: LinkCategory.AIRDROP_OPS, tags: ['AI'] },
   { id: '6', url: 'https://nebulai.network/final-test?invite_by=D1F1kn', title: 'Nebulai Network', category: LinkCategory.AIRDROP_OPS, tags: ['Final Test'] },
   { id: '10', url: 'https://operator.olivianetwork.com?ref=#OPJ3FIK2', title: 'Olivia Network', category: LinkCategory.AIRDROP_OPS, tags: ['Operator'] },
-  { id: '11', url: 'https://devnet-dapp.rayls.com/', title: 'Rayls Devnet', category: LinkCategory.AIRDROP_OPS, tags: ['Devnet'] },
-  { id: '12', url: 'https://cedomis.xyz/dashboard', title: 'Cedomis', category: LinkCategory.AIRDROP_OPS, tags: ['Dashboard'] },
   { id: '13', url: 'https://testnet.pharosnetwork.xyz/experience?inviteCode=RfgFyrjEUeC728lB', title: 'Pharos Network', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'] },
   { id: '14', url: 'https://app.namso.network/dashboard/?ref=A339FDFAE39E', title: 'Namso Network', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'] },
   { id: '16', url: 'https://proving-grounds.brevis.network/VQcpfa', title: 'Brevis ZK', category: LinkCategory.AIRDROP_OPS, tags: ['ZK', 'Proving'] },
@@ -81,7 +79,6 @@ export const ALL_LINKS: LinkItem[] = [
   // --- QUEST BOARD ---
   { id: '57', url: 'https://dscvr.one/invite/dashboard?ur=e99a9b5f-4449-4382-943b-71579aadfa85', title: 'DSCVR', category: LinkCategory.QUEST_BOARD, tags: ['SocialFi', 'Solana'], recommended: true },
   { id: '63', url: 'https://skynet.certik.com/quest/signup?referralId=4324d09a-bf19-437c-8635-645a52dbf136', title: 'Certik Skynet', category: LinkCategory.QUEST_BOARD, tags: ['Security', 'Quests'] },
-  { id: '50', url: 'https://app.optimai.im/generate-tweet', title: 'OptimAI Social', category: LinkCategory.QUEST_BOARD, tags: ['Social'] },
   { id: '51', url: 'https://app.fight.id/signup?code=FEFDB806', title: 'Fight.id', category: LinkCategory.QUEST_BOARD, tags: ['Social'] },
   { id: '52', url: 'https://yupp.ai/join/ruby-square-engine', title: 'Yupp.ai', category: LinkCategory.QUEST_BOARD, tags: ['AI'] },
   { id: '53', url: 'https://surflayer.xyz?ref=8d285aa34e', title: 'SurfLayer', category: LinkCategory.QUEST_BOARD, tags: ['Social'] },
